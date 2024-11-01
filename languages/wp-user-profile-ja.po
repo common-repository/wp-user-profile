@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP User Profile\n"
+"POT-Creation-Date: 2018-04-10 15:13+0900\n"
+"PO-Revision-Date: 2018-04-10 15:13+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-user-profile.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/class-wp-user-profile-widget.php:11
+msgid "Show User Profile"
+msgstr "ユーザーのプロフィールを表示します"
+
+#: classes/class-wp-user-profile-widget.php:63
+msgid "Title"
+msgstr "タイトル"
+
+#: classes/class-wp-user-profile-widget.php:68
+msgid "User to display"
+msgstr "表示するユーザー"
+
+#: classes/class-wp-user-profile-widget.php:75
+msgid "Auto"
+msgstr "自動"
+
+#: wp-user-profile.php:74
+msgid "Mail address"
+msgstr "メールアドレス"
+
+#: wp-user-profile.php:75 wp-user-profile.php:76 wp-user-profile.php:80
+#: wp-user-profile.php:81 wp-user-profile.php:82
+msgid "Username"
+msgstr "ユーザー名"
+
+#: wp-user-profile.php:75
+msgid "Without @"
+msgstr "@なしで"
+
+#: wp-user-profile.php:78
+msgid "Without +"
+msgstr "+ なしで"
+
+#: wp-user-profile.php:79
+msgid "Channel ID"
+msgstr "チャンネルID"
+
+#. Plugin Name of the plugin/theme
+#: wp-user-profile.php:93 wp-user-profile.php:94
+msgid "WP User Profile"
+msgstr ""
+
+#: wp-user-profile.php:120
+msgid "For details of setting, please see"
+msgstr "設定の詳細はこちらをご覧ください"
+
+#: wp-user-profile.php:132
+msgid "Do not use plugin's CSS"
+msgstr "プラグインのCSSを使わない"
+
+#: wp-user-profile.php:140
+msgid "Default user"
+msgstr "デフォルトのユーザー"
+
+#: wp-user-profile.php:160
+msgid "Select the user to display when using outside the WordPress loop."
+msgstr "WordPressループ外で使う場合に表示するユーザーを選択します。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://e-joint.jp/works/wp-user-profile/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A WordPress plugin that makes author's profile easily."
+msgstr "著者のプロフィールを簡単に作成できるWordPressプラグインです。"
+
+#. Author of the plugin/theme
+msgid "e-JOINT.jp"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://e-joint.jp"
+msgstr ""
+
+#~ msgid "Twitter Username"
+#~ msgstr "Twitter ユーザー名"
+
+#~ msgid "Facebook Username"
+#~ msgstr "Facebook ユーザー名"
+
+#~ msgid "YouTube Channel ID"
+#~ msgstr "YouTube チャンネルID"
+
+#~ msgid "Instagram Username"
+#~ msgstr "Instagram ユーザー名"
+
+#~ msgid "Pinterest Username"
+#~ msgstr "Pinterest ユーザー名"
+
+#~ msgid "Github Username"
+#~ msgstr "Github ユーザー名"
+
+#~ msgid "Youtube Channel ID"
+#~ msgstr "YouTube"
